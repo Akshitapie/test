@@ -1,0 +1,2 @@
+# test
+Django Blog Testing
